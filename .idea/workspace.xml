@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5e0ecc5-7972-4a2d-8eca-28a4e3d374d0" name="Changes" comment="ws0420" />
+    <list default="true" id="a5e0ecc5-7972-4a2d-8eca-28a4e3d374d0" name="Changes" comment="ws0420">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/logback.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logback.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/charts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/charts.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kbstar/ServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kbstar/ServletInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kbstar/Ws0420Application.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,15 +57,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/spring/web04",
+    "last_opened_file_path": "C:/spring/clone0420",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "rearrange.code.on.save": "true",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "d748978ba22240d5d9d08a9a630caa2d",
+    "spring.configuration.checksum": "fa4f8da5855983193382b0488e562d4c",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +89,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Ws0420Application">
+  <component name="RunManager" selected="Spring Boot.Clone0420Application">
     <configuration name="LombokTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="web04" />
       <extension name="coverage">
@@ -94,16 +105,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Web04Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="web04" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.Web04Application" />
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ws0420" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ws0420Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="ws0420" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.Ws0420Application" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clone0420Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="clone0420" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.Clone0420Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clone0420Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="clone0420" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.Clone0420Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Web04Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web04" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.Web04Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,6 +164,8 @@
       <workItem from="1681886587198" duration="1205000" />
       <workItem from="1681950259613" duration="13444000" />
       <workItem from="1681974253067" duration="4118000" />
+      <workItem from="1681978668657" duration="134000" />
+      <workItem from="1681979903206" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="ws0420">
       <created>1681977226856</created>
